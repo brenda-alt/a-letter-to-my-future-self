@@ -1,7 +1,6 @@
 import { ImagePlaceholder } from '../components/ImagePlaceholder'
 import { NavigationButtons } from '../components/NavigationButtons'
 import { PresentationSection } from '../components/PresentationSection'
-import { presentationImages } from '../content/images'
 
 const stars = [
   { top: '12%', left: '18%', delay: '0s' },

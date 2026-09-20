@@ -1,7 +1,6 @@
 import { ImagePlaceholder } from '../components/ImagePlaceholder'
 import { NavigationButtons } from '../components/NavigationButtons'
 import { PresentationSection } from '../components/PresentationSection'
-import { presentationImages } from '../content/images'
 import { scrollToSection } from '../content/sections'
 
 export function IntroductionSection() {

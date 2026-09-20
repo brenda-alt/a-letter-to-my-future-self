@@ -2,7 +2,6 @@ import { ImagePlaceholder } from '../components/ImagePlaceholder'
 import { NavigationButtons } from '../components/NavigationButtons'
 import { PresentationSection } from '../components/PresentationSection'
 import { SectionHeader } from '../components/SectionHeader'
-import { presentationImages } from '../content/images'
 
 const ideas = ['Technology', 'Programming', 'Learning', 'Growth']
 
