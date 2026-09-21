@@ -12,7 +12,7 @@ export function CareerSection() {
 
       <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
         <ImagePlaceholder
-          src="public/images/front-end.jpg"
+          src="images/front-end.jpg"
           alt="Visual for a future career in technology"
           caption="A photo about work or learning"
           aspect="5 / 4"

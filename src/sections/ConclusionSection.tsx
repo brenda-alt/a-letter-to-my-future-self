@@ -42,7 +42,7 @@ export function ConclusionSection() {
 
         <div className="mx-auto mt-10 max-w-sm">
           <ImagePlaceholder
-            src="public/images/conclusion.jpg"
+            src="images/conclusion.jpg"
             alt="Closing image for the journey"
             caption="A closing photo"
             aspect="16 / 9"

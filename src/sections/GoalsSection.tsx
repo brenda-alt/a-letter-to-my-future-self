@@ -31,7 +31,7 @@ export function GoalsSection() {
 
       <div className="grid items-start gap-10 lg:grid-cols-[minmax(0,0.9fr)_minmax(0,1.1fr)] lg:gap-14">
         <ImagePlaceholder
-          src="public/images/goals.jpg"
+          src="images/goals.jpg"
           alt="Optional image about taking action"
           caption="Optional photo — action, study, or work"
           aspect="4 / 5"

@@ -8,7 +8,7 @@ export function IntroductionSection() {
     <PresentationSection id="introduction">
       <div className="grid items-center gap-10 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)] lg:gap-16">
         <ImagePlaceholder
-          src="public/images/letter.jpg"
+          src="images/letter.jpg"
           alt="Opening portrait for the presentation"
           caption="Your opening photo"
           aspect="4 / 5"

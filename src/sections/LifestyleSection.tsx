@@ -15,7 +15,7 @@ export function LifestyleSection() {
 
       <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
         <ImagePlaceholder
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4r6EaP-y06m7-6pbPLK2zx8EGtkbvirzftRED5Nvfphjr1FDt8mzaxWY&s=10"
+          src="images/future.jpg"
           alt="A calm image of a future lifestyle"
           caption="A photo of the life you want"
           aspect="5 / 4"

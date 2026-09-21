@@ -24,7 +24,7 @@ export function DreamTripSection() {
 
         <div className="grid items-center gap-10 lg:grid-cols-2 lg:gap-16">
           <ImagePlaceholder
-            src="public/images/shanghai.jpg"
+            src="images/shanghai.jpg"
             alt="China — Beijing, Shanghai, temples, food, and streets"
             caption="China, Beijing, Shanghai, temples, food, streets"
             aspect="4 / 5"
