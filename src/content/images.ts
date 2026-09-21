@@ -10,10 +10,10 @@
  * Until a file exists at the path, the UI shows a styled placeholder.
  */
 export const presentationImages = {
-  introduction: '/images/introduction.jpg',
-  career: '/images/career.jpg',
-  dreamTrip: '/images/japan.jpg',
-  lifestyle: '/images/lifestyle.jpg',
+  introduction: '/images/letter.jpg',
+  career: '/images/front-end.jpg',
+  dreamTrip: '/images/shanghai.jpg',
+  lifestyle: '/images/letter.jpg',
   goals: '/images/goals.jpg',
   conclusion: '/images/conclusion.jpg',
 } as const
